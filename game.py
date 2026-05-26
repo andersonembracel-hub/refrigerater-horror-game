@@ -36,8 +36,6 @@ class Game:
 
             if action == "1":
                 self.move()
-                game = Game()
-game.play()
             elif action == "2":
                 print("👋 Saindo do jogo...")
                 self.running = False
