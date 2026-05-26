@@ -1,4 +1,5 @@
-class Game:
+print("🔥 GAME INICIOU") 
+   class Game:
     def __init__(self):
         self.position = "entrada"
         self.running = True
