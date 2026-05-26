@@ -1,16 +1,47 @@
 # 🧊 Frigorífico Horror Game
 
-Jogo de terror ambientado em um frigorífico abandonado.
+Um jogo de terror ambientado em um frigorífico abandonado.
 
-## 🎮 Ideia do jogo
-O jogador explora um frigorífico antigo e vazio, onde algo estranho acontece.
+---
 
-## 🧩 Objetivo do projeto
-Aprender desenvolvimento de jogos e estruturação de código.
+## 🎮 Sobre o jogo
+
+O jogador explora um frigorífico desativado onde eventos estranhos começam a acontecer.  
+O objetivo é sobreviver e descobrir o que aconteceu no local.
+
+---
+
+## 🧠 Ideia principal
+
+- Ambiente claustrofóbico
+- Atmosfera de terror psicológico
+- Exploração de mapa fechado
+- Presença de entidade desconhecida
+
+---
 
 ## 🛠️ Tecnologias
-- Python (inicial)
+
+- Python (protótipo inicial)
 - Futuramente: Unity ou Godot
 
+---
+
+## 📁 Estrutura do projeto
+
+- `main.py` → ponto inicial do jogo
+- `player.py` → lógica do jogador
+- `map.py` → mapa do frigorífico
+- `enemy.py` → entidade inimiga
+
+---
+
 ## 📌 Status
-Projeto em desenvolvimento inicial
+
+🚧 Em desenvolvimento inicial
+
+---
+
+## 👨‍💻 Autor
+
+Projeto criado por Anderson Embracel
